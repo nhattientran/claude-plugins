@@ -1,5 +1,4 @@
 ---
-name: generate-entity
 description: Generate complete CRUD for a new entity
 args:
   - name: name
@@ -15,7 +14,7 @@ args:
 Generate domain model, usecase, repository, handler, routes, tests, and migration for a specific entity.
 
 ## Trigger
-`/generate-entity <name> [type]`
+`/go-dev:generate-entity <name> [type]`
 
 ## Agent
 Use the **go-api** agent to implement all entity layers.

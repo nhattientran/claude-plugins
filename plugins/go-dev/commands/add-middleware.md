@@ -1,5 +1,4 @@
 ---
-name: add-middleware
 description: Add middleware to the Go service
 ---
 
@@ -8,7 +7,7 @@ description: Add middleware to the Go service
 Interactive menu to add common middleware like JWT, CORS, Logger, RateLimiter, and Recovery.
 
 ## Trigger
-`/add-middleware`
+`/go-dev:add-middleware`
 
 ## Agent
 Use the **go-api** agent to implement the middleware.

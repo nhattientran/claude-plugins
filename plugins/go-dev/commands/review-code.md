@@ -1,5 +1,4 @@
 ---
-name: review-code
 description: Review Go code for best practices and Clean Architecture
 args:
   - name: path
@@ -12,7 +11,7 @@ args:
 Trigger the `go-reviewer` agent to analyze specific files or directories.
 
 ## Trigger
-`/review-code [path]`
+`/go-dev:review-code [path]`
 
 ## Agent
 Use the **go-reviewer** agent to perform the code review.

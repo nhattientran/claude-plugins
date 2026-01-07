@@ -1,5 +1,4 @@
 ---
-name: scaffold-project
 description: Bootstrap a new Go project with Clean Architecture
 args:
   - name: name
@@ -12,7 +11,7 @@ args:
 Initialize a new Go project with Clean Architecture, Gin, GORM (PostgreSQL), Docker Compose, and Makefile. Module path will be `github.com/nhattientran/{{args.name}}`.
 
 ## Trigger
-`/scaffold-project [name]`
+`/go-dev:scaffold-project [name]`
 
 ## Agent
 Use the **go-architect** agent to design and scaffold the project structure.
