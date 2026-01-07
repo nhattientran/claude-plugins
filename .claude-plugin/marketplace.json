@@ -1,0 +1,14 @@
+{
+	"name": "claude-plugins",
+	"owner": {
+		"name": "TienTN",
+		"email": "tientrannhat.worrk@gmail.com"
+	},
+	"plugins": [
+		{
+			"name": "go-dev",
+			"source": "./plugins/go-dev",
+			"description": "Comprehensive Go backend development toolkit for building production-ready services with Clean Architecture, REST APIs, and database integration"
+		}
+	]
+}
