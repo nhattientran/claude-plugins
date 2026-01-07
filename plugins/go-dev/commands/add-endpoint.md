@@ -1,5 +1,4 @@
 ---
-name: add-endpoint
 description: Add a new API endpoint to an existing entity
 args:
   - name: entity
@@ -17,7 +16,7 @@ args:
 Generate handler method, request/response structs with validation, and register the route for a new endpoint.
 
 ## Trigger
-`/add-endpoint <entity> <method> [path]`
+`/go-dev:add-endpoint <entity> <method> [path]`
 
 ## Agent
 Use the **go-api** agent to implement the endpoint.
