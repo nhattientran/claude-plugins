@@ -18,8 +18,8 @@ Use the **go-architect** agent to design and scaffold the project structure.
 
 ## Workflow
 
-1. Invoke the `go-architect` agent with the Task tool.
-2. Ask for preferred framework (Gin, Echo, Fiber) and ORM (GORM, sqlx).
+1. Ask for preferred framework (Gin, Echo, Fiber) and ORM (GORM, sqlx).
+2. Invoke the `go-architect` agent with the Task tool.
 3. Design the project architecture following Clean Architecture.
 4. Copy base templates from `skills/golang-backend/assets/rest-api-template/`.
 5. Initialize `go mod init github.com/nhattientran/{{args.name}}`.
