@@ -1,0 +1,10 @@
+{
+  "name": "go-dev",
+  "version": "0.1.0",
+  "description": "Comprehensive Go backend development toolkit for building production-ready services with Clean Architecture, REST APIs, and database integration",
+  "author": {
+    "name": "tientn",
+    "email": "tientrannhat.work@gmail.com"
+  },
+  "keywords": ["golang", "go", "backend", "rest-api", "clean-architecture", "gin", "gorm", "microservices"]
+}
