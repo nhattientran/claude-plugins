@@ -1,6 +1,6 @@
 {
   "name": "go-dev",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Comprehensive Go backend development toolkit for building production-ready services with Clean Architecture, REST APIs, and database integration",
   "author": {
     "name": "tientn",
